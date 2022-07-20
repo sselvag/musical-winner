@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/sselvag/musical-winner/issues"
   },
-  "homepage": "https://github.com/sselvag/musical-winner#readme"
+  "homepage": "https://github.com/sselvag/musical-winner#readme",
+  "dependencies": {
+    "inquirer": "^9.0.2"
+  }
 }
