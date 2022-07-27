@@ -19,5 +19,6 @@
   "homepage": "https://github.com/sselvag/musical-winner#readme",
   "dependencies": {
     "inquirer": "^9.0.2"
-  }
+  },
+  "devDependencies": {}
 }
