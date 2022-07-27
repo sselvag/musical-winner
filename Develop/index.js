@@ -56,7 +56,8 @@ const promptUser = [
 
 // TODO: Create a function to write README file
 function writeToFile(response) {
-  fs.writeFile(`./generatedReadMe/readme.md`, generateMarkdown(response), (err) => err ? console.log(err) : console.log('Success!'))
+  const fileName = `${response.title.toLowerCase().split(' ').join('')}.md`;
+  fs.writeFile(`./generatedReadMe/${fileName}`, generateMarkdown(response), (err) => err ? console.log(err) : console.log('Success!'))
 };
 
 // TODO: Create a function to initialize app
