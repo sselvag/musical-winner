@@ -11,10 +11,10 @@
 
 
 The following link is a walkthrough video that demonstrates the functioanlity of the README generator.
-[Walkthrough Link] (https://drive.google.com/file/d/1-aipaUIXCXnmtM4xAVdrjI9irEVpFzdZ/view?usp=sharing)
+https://drive.google.com/file/d/1-aipaUIXCXnmtM4xAVdrjI9irEVpFzdZ/view?usp=sharing
 
 
-
+The following screenshot displays how to initiate the README generator.
 ![Screen Shot 2022-07-26 at 10 31 11 PM](https://user-images.githubusercontent.com/64749332/181157306-e1929353-cf4b-41fd-8682-555a71693c9e.png)
 
 
