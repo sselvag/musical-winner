@@ -1,6 +1,7 @@
 # Professional README Generator
   
 ## As a developer, I want to create a README generator so that I can quickly create a professional README for a new project. In this project, I need to create a professional README generator that satisfies the following criteria: 
+
   1. When prompted for information about my application repository, a high quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions.
   2. The project title entered when prompted, is displayed as the title of the README.
   3. The description, installation instructions, usage information, contribution guidelines, and test instructions entered when prompted, is added to the sections of the README entitled Description, Installation, Usage, Contributing, and Tests.
